@@ -1,0 +1,45 @@
+week1 Concept Learning(1):
+	Find-S Algorithm
+	Version space
+week2 Tree Learning(1):
+	Decision Tree
+	ID3
+week3 Classification Rule Learning:
+	Decision Tables
+	1R
+	Zero R
+	Learn Disjunctive Sets of Rules:
+		Sequential Covering Algorithm
+		Learn one Rule
+	Induct-RDR
+week3 Association Rule Learning:
+	Apriori Algorithm
+week4 Learning for numeric predictions:
+	Perceptron
+	Linear Regression
+	Regression tree
+week5 Distance Based Learning:
+	Distance Based Learning 
+	k-Nearest Neighbor Algorithm
+	Locally weighted Regression
+	Instance Based learning 
+	Edited NN
+week6 Reinforcement Learning:
+	Q learning
+week7 Probabilistic Learning:
+	Brute-Force Bias
+	Naive Bias
+week11 Ensemble Learning:
+	Bagging
+	Boosting
+week11 Learning with kernel Methods:
+	SVM
+week12 Concept Learning(2):
+	Least General Generalization 
+	Least General conjunctive generalization
+	LGG with internal disjunction 
+	Most general consistent specialization
+week12 Learning in logic:
+	Learning First Order Rules
+
+	
